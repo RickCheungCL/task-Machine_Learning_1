@@ -13,7 +13,7 @@ def get_page():
 	global url
 	
 	# Code here - Ask the user to input "Enter url of a medium article: " and collect it in url
-	url=input("Whis is the url?\n")
+	url=input("Enter url of a medium article:\n")
 	# Code ends here
 	
 	# handling possible error
